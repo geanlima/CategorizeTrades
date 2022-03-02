@@ -1,0 +1,16 @@
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\obj\Debug\net5.0\CategorizeTrades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\obj\Debug\net5.0\CategorizeTrades.AssemblyInfoInputs.cache
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\obj\Debug\net5.0\CategorizeTrades.AssemblyInfo.cs
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\obj\Debug\net5.0\CategorizeTrades.csproj.CoreCompileInputs.cache
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\bin\Debug\net5.0\CategorizeTrades.exe
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\bin\Debug\net5.0\CategorizeTrades.deps.json
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\bin\Debug\net5.0\CategorizeTrades.runtimeconfig.json
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\bin\Debug\net5.0\CategorizeTrades.runtimeconfig.dev.json
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\bin\Debug\net5.0\CategorizeTrades.dll
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\bin\Debug\net5.0\ref\CategorizeTrades.dll
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\bin\Debug\net5.0\CategorizeTrades.pdb
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\obj\Debug\net5.0\CategorizeTrades.dll
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\obj\Debug\net5.0\ref\CategorizeTrades.dll
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\obj\Debug\net5.0\CategorizeTrades.pdb
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\obj\Debug\net5.0\CategorizeTrades.genruntimeconfig.cache
+E:\Importante\GFT\Teste\Projeto\CategorizeTrades\CategorizeTrades\obj\Debug\net5.0\CategorizeTrades.csproj.AssemblyReference.cache
